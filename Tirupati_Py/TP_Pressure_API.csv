@@ -1,0 +1,48 @@
+Parameter Name,Description,Value,,,,,,1,,,
+auth_token ,token to access API,uwsp21xcdf654$#^nic,,,,,,,,,S. No.
+SchemeId ,Id of Scheme,2029,J-347 (Zone 1) (RL97.60 mtr & tp15.98 mtr),,,,,,,,Scheme Id
+nPredeterminedPointId,Id of Tubewell,110,,,,,,,,,Point Id
+,,,,,,,,,,,2029
+,,,,,,,,,,,110
+,,,,,,,,,,,Point Name
+,,,,,,,,,,,
+,,,,,,,,,,,2
+,,,,,,,,,,,2029
+,,,,,,,,,,,
+,,,,,,,,,,,3
+auth_token ,token to access API,uwsp21xcdf654$#^nic,,,,,,2,,,2029
+SchemeId ,Id of Scheme,2029,J-198 (Zone 1) (RL98.90 mtr & tp15.27 mtr),,,,,,,,112
+nPredeterminedPointId,Id of Tubewell,111,,,,,,,,,
+,,,,,,,,,,,4
+,,,,,,,,,,,2029
+,,,,,,,,,,,113
+,,,,,,,,,,,
+,,,,,,,,,,,5
+,,,,,,,,,,,2029
+,,,,,,,,,,,1
+,,,,,,,,,,,
+auth_token ,token to access API,uwsp21xcdf654$#^nic,,,,,,,,,
+SchemeId ,Id of Scheme,2029,J-279 (Zone 2) (RL101.15 mtr & tp14.88 mtr),,,,,3,,,
+nPredeterminedPointId,Id of Tubewell,112,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+auth_token ,token to access API,uwsp21xcdf654$#^nic,,,,,,4,,,
+SchemeId ,Id of Scheme,2029,J-297 (Zone 2) (RL101.25 mtr & tp13.93 mtr),,,,,,,,
+nPredeterminedPointId,Id of Tubewell,113,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+auth_token ,token to access API,uwsp21xcdf654$#^nic,,,,,,5,,,
+SchemeId ,Id of Scheme,2029,114 J-88 (Zone 3) (RL103.95 mtr & tp15.11 mtr),,,,,,,,
+nPredeterminedPointId,Id of Tubewell,114,,,,,,,,,
